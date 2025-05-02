@@ -19,7 +19,7 @@ git clone https://github.com/stormshadow47/fastapi-resource-manager.git
 cd fastapi-resource-manager
 ```
 
-## 2.  Create venv (macOS/Linux)
+## 2.  Create venv
 ```
 # macOS
 python3 -m venv venv
